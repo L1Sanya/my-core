@@ -1,5 +1,5 @@
 {
-  "name": "L1Sanya/my-core",
+  "name": "l1sanya/my-core",
   "description": "My first package",
   "type": "library",
   "autoload": {
