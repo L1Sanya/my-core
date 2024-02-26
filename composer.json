@@ -1,0 +1,17 @@
+{
+  "name": "L1Sanya/my-core",
+  "description": "My first package",
+  "type": "library",
+  "autoload": {
+    "psr-4": {
+      "Kurbanali\\MyCore\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Alex",
+      "email": "lisanya2702@gmail.com"
+    }
+  ],
+  "require": {}
+}
